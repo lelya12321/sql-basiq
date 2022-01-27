@@ -1,0 +1,1 @@
+SELECT MOD(number1,number2) AS MOD FROM DECIMALS
